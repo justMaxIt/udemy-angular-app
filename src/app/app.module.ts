@@ -25,5 +25,6 @@ import {ShoppingListComponent} from './shopping-list/shopping-list.component';
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule {
 }
